@@ -1,3 +1,5 @@
 remote_theme: sighingnow/jekyll-gitbook
 title: To zhiting and company
 description: Hi, I'm zhiting
+toc:
+    enabled: true
